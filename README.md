@@ -35,6 +35,8 @@ INSTALLATION
 3. Ensure npm is in PATH
 
     ```
+    apt-get install nodejs-dev node-gyp libssl1.0-dev
+    apt-get install npm
     npm --version        # ensure npm is in PATH, is version 6.x
     ```
 
